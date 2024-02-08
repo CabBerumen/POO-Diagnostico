@@ -1,0 +1,14 @@
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\bin\Debug\net8.0\Diagnostico.exe
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\bin\Debug\net8.0\Diagnostico.deps.json
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\bin\Debug\net8.0\Diagnostico.runtimeconfig.json
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\bin\Debug\net8.0\Diagnostico.dll
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\bin\Debug\net8.0\Diagnostico.pdb
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\obj\Debug\net8.0\Diagnostico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\obj\Debug\net8.0\Diagnostico.AssemblyInfoInputs.cache
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\obj\Debug\net8.0\Diagnostico.AssemblyInfo.cs
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\obj\Debug\net8.0\Diagnostico.csproj.CoreCompileInputs.cache
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\obj\Debug\net8.0\Diagnostico.dll
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\obj\Debug\net8.0\refint\Diagnostico.dll
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\obj\Debug\net8.0\Diagnostico.pdb
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\obj\Debug\net8.0\Diagnostico.genruntimeconfig.cache
+C:\Users\cbeww\Desktop\POO_Diagnostico\POO-Diagnostico\Diagnostico\obj\Debug\net8.0\ref\Diagnostico.dll
